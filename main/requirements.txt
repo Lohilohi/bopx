@@ -1,0 +1,9 @@
+express
+express-ejs-layouts
+express-session
+http-status-codes
+mongodb
+mongoose
+cookie-parser
+poet
+connect-flash
