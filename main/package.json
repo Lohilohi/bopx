@@ -4,7 +4,7 @@
   "description": "Blog of project X",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon main.js"
   },
   "repository": {
     "type": "git",
